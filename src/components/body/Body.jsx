@@ -1,5 +1,5 @@
-import LatestProjects from "./LatestProjects";
-import AboutMe from "./AboutMe";
+import LatestProjects from './LatestProjects';
+import AboutMe from './AboutMe';
 
 const Body = () => {
   return (
