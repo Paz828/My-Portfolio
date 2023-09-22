@@ -1,3 +1,13 @@
-#footer {
+#footer-spacer {
+  display: flex;
+  justify-content: end;
+  flex-direction: column;
+  min-height: 15rem;
+  bottom: 0;
+}
+
+#footer-container {
+  display: flex;
+  justify-content: space-around;
   margin-bottom: 0;
 }
